@@ -1,0 +1,11 @@
+E:\HOC TAP\OnlineShop\Models\bin\Debug\Models.dll.config
+E:\HOC TAP\OnlineShop\Models\bin\Debug\Models.dll
+E:\HOC TAP\OnlineShop\Models\bin\Debug\Models.pdb
+E:\HOC TAP\OnlineShop\Models\bin\Debug\EntityFramework.dll
+E:\HOC TAP\OnlineShop\Models\bin\Debug\EntityFramework.SqlServer.dll
+E:\HOC TAP\OnlineShop\Models\bin\Debug\EntityFramework.xml
+E:\HOC TAP\OnlineShop\Models\bin\Debug\EntityFramework.SqlServer.xml
+E:\HOC TAP\OnlineShop\Models\obj\Debug\Models.csprojAssemblyReference.cache
+E:\HOC TAP\OnlineShop\Models\obj\Debug\Models.csproj.CopyComplete
+E:\HOC TAP\OnlineShop\Models\obj\Debug\Models.dll
+E:\HOC TAP\OnlineShop\Models\obj\Debug\Models.pdb
